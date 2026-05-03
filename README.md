@@ -11,7 +11,7 @@ It helps to plan navigation, layout, and user experience in the early design sta
 ## 🔗 Figma Wireframe Link
 https://www.figma.com/design/O0UwEcwKL8HkpbmhqRNVat/ScholarTrack-Wireframe--Copy-?node-id=0-1&t=UVdRuV1FABejQQ64-1
 
-[view pdf](assets/ScholarTrack Wireframe (Copy))
+[view pdf]([assets/ScholarTrack Wireframe (Copy)](https://github.com/shihariAyodya/ScholarTrack-Wireframe/blob/main/ScholarTrack%20Wireframe%20(Copy).pdf))
 
 ## 🚀 Key Pages
 - Login / SignUp pages
